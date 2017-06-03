@@ -1,6 +1,6 @@
  $(document).ready(function() {
 
-	crystals = ['assets/images/diamond.gif','assets/images/emerald.gif','assets/images/ruby.gif','assets/images/yellowdiamond.gif'];
+	crystals = ['assets/images/diamond.gif','assets/images/emerald.gif','assets/images/Ruby.gif','assets/images/yellowdiamond.gif'];
 
 	var userTotal = 0;
 	var wins = 0;
